@@ -1,3 +1,0 @@
-
-ANOGS:0x577599 // Anti-Ban 10Y Fix
-UE4:0x7BB19D0 // Less Recoil
